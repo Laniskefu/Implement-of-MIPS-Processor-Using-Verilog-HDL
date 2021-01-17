@@ -1,0 +1,22 @@
+module DM(Data_out, clk, rst, MemWrite, Data_in, Addr); 
+  output [31:0] Data_out; 
+  input clk, rst, MemWrite; 
+  input [31:0] Data_in, Addr; 
+  reg [7:0] MEM[1023:0]; 
+  integer i; 
+
+  always @(posedge clk, posedge rst)
+  begin
+    if(rst) for(i=0;i!=1024;i=i+1) MEM[i]<=0;
+    else if(MemWrite)
+    begin
+      MEM[Addr[9:0]+0] <= Data_in[31:24]; 
+      MEM[Addr[9:0]+1] <= Data_in[23:16]; 
+      MEM[Addr[9:0]+2] <= Data_in[15:8]; 
+      MEM[Addr[9:0]+3] <= Data_in[7:0]; 
+    end
+  end
+
+  assign Data_out = {MEM[Addr[9:0]],MEM[Addr[9:0]+1],MEM[Addr[9:0]+2],MEM[Addr[9:0]+3]}; 
+
+endmodule

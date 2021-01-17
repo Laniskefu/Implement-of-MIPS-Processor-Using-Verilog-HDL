@@ -1,0 +1,127 @@
+{C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/MEM_WB.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\MEM_WB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/CU.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\CU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/MIPS.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\MIPS.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/DM.v} {1 {vlog -work work -stats=none {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/DM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/EX_MEM.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\EX_MEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/JUMPER.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\JUMPER.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module JUMPER
+
+Top level modules:
+	JUMPER
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/ID.v} {1 {vlog -work work -stats=none {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/ID.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/MUX5.v} {1 {vlog -work work -stats=none {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/MUX5.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX5
+
+Top level modules:
+	MUX5
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/MUX32.v} {1 {vlog -work work -stats=none {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/MUX32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX32
+
+Top level modules:
+	MUX32
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/MIPS_test.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\MIPS_test.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MIPS_test
+
+Top level modules:
+	MIPS_test
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/RF.v} {1 {vlog -work work -stats=none {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/RF.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/EXT.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\EXT.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EXT
+
+Top level modules:
+	EXT
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/ID_EX.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\ID_EX.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/ALU.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/IFU_test.v} {1 {vlog -work work -stats=none {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/IFU_test.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IFU_test
+
+Top level modules:
+	IFU_test
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/IF_ID.v} {1 {vlog -work work -stats=none {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/IF_ID.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/ID_test.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\ID_test.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID_test
+
+Top level modules:
+	ID_test
+
+} {} {}} {C:/Users/hansa/OneDrive/BDIC/Computer Architecture/pipline1/IFU.v} {1 {vlog -work work -stats=none {C:\Users\hansa\OneDrive\BDIC\Computer Architecture\pipline1\IFU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IFU
+
+Top level modules:
+	IFU
+
+} {} {}}

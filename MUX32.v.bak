@@ -1,0 +1,7 @@
+module MUX32(out, in1, in0, ctr); 
+  output [31:0] out; 
+  input [31:0] in1, in0; 
+  input ctr; 
+
+  assign out = ctr ? in1 : in0; 
+endmodule
